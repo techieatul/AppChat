@@ -1,4 +1,4 @@
-# chatapplication
+# AppChat
 AppChat is a group chat application where in multiple users can send/receive messages.
 
 Framework used:
